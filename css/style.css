@@ -51,7 +51,7 @@ header .nav .active{border-bottom: 2px solid #fff; padding-bottom: 0.2rem;}
 .video_wrap .right::before{content: ''; width: 4rem; height: 0.2rem; background: #fff; right: 0; top: -1.2rem; position: absolute;}
 
 .img{width: 100%; position: absolute; left: 0; top: -3rem;}
-.link{padding: 23px 86px;background: transparent;position: absolute;top: 82.05%;left: 50%;transform: translate(-50%, -50%);}
+.link{padding: 23px 86px;background: transparent;position: absolute;bottom: 13%;left: 50%;transform: translate(-50%, -50%);}
 
 @media screen and (max-width: 1520px) {
     .video_wrap .left{font-size: 5.5rem;}
